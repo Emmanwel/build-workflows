@@ -159,8 +159,7 @@ function EditProfileTab() {
             </Button>
           </Box>
           <Divider />
-          <CardContent sx={{ p: 4 }}>
-            <Typography variant="subtitle2">
+          <CardContent sx={{ p: 4 }}>            <Typography variant="subtitle2">
               <Grid container spacing={0}>
                 <Grid item xs={12} sm={4} md={3} textAlign={{ sm: 'right' }}>
                   <Box pr={3} pb={2}>

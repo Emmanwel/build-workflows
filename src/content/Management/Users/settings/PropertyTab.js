@@ -33,13 +33,13 @@ import { makeStyles } from '@material-ui/core/styles';
 const useStyles = makeStyles({
   radio: {
     '&$checked': {
-      color: 'green' // Set the color for the outer side (important)
+      color: 'green' 
     }
   },
   checked: {
     '&$checked': {
       '&.MuiIconButton-root': {
-        color: 'white' // Set the color for the center (important)
+        color: 'white' 
       }
     }
   }
