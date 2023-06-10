@@ -183,13 +183,13 @@ function HeaderMenu() {
         <MenuItem sx={{ px: 3 }} component={Link} href="/">
           Overview
         </MenuItem>
-        <MenuItem sx={{ px: 3 }} component={Link} href="/components/tabs">
+        <MenuItem sx={{ px: 3 }} component={Link} href="/management/workflow">
           Emmanuel
         </MenuItem>
-        <MenuItem sx={{ px: 3 }} component={Link} href="/components/cards">
+        <MenuItem sx={{ px: 3 }} component={Link} href="/management/workflow">
           if..condition
         </MenuItem>
-        <MenuItem sx={{ px: 3 }} component={Link} href="/components/modals">
+        <MenuItem sx={{ px: 3 }} component={Link} href="/management/workflow">
           Assign Values
         </MenuItem>
       </Menu>

@@ -14,25 +14,25 @@ import AddTwoToneIcon from '@mui/icons-material/AddTwoTone';
 function Feed() {
   const feed = [
     {
-      name: 'Munroe Dacks',
+      name: 'Manu r',
       jobtitle: 'Senior Accountant',
-      company: 'Trudoo',
-      avatar: '/static/images/avatars/1.jpg'
+      company: 'Saf',
+      avatar: '/static/images/avatars/meme.jpg'
     },
     {
-      name: 'Gunilla Canario',
+      name: 'Ediwiwn ',
       jobtitle: 'Associate Professor',
-      company: 'Buzzdog',
+      company: 'Airtel ',
       avatar: '/static/images/avatars/2.jpg'
     },
     {
-      name: 'Rowena Geistmann',
+      name: 'Hhs shs ',
       jobtitle: 'Pharmacist',
       company: 'Yozio',
       avatar: '/static/images/avatars/3.jpg'
     },
     {
-      name: 'Ede Stoving',
+      name: 'Ggs jsjs',
       jobtitle: 'VP Operations',
       company: 'Cogibox',
       avatar: '/static/images/avatars/4.jpg'

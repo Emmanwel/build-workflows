@@ -47,7 +47,7 @@ function EditProfileTab() {
                 </Grid>
                 <Grid item xs={12} sm={8} md={9}>
                   <Text color="black">
-                    <b>Craig Donin</b>
+                    <b>Mukhebi </b>
                   </Text>
                 </Grid>
                 <Grid item xs={12} sm={4} md={3} textAlign={{ sm: 'right' }}>
@@ -57,7 +57,7 @@ function EditProfileTab() {
                 </Grid>
                 <Grid item xs={12} sm={8} md={9}>
                   <Text color="black">
-                    <b>15 March 1977</b>
+                    <b>15 March 1997</b>
                   </Text>
                 </Grid>
                 <Grid item xs={12} sm={4} md={3} textAlign={{ sm: 'right' }}>
@@ -68,8 +68,7 @@ function EditProfileTab() {
                 <Grid item xs={12} sm={8} md={9}>
                   <Box sx={{ maxWidth: { xs: 'auto', sm: 300 } }}>
                     <Text color="black">
-                      1749 High Meadow Lane, SEQUOIA NATIONAL PARK, California,
-                      93262
+                     Kenya
                     </Text>
                   </Box>
                 </Grid>
@@ -159,7 +158,9 @@ function EditProfileTab() {
             </Button>
           </Box>
           <Divider />
-          <CardContent sx={{ p: 4 }}>            <Typography variant="subtitle2">
+          <CardContent sx={{ p: 4 }}>
+            {' '}
+            <Typography variant="subtitle2">
               <Grid container spacing={0}>
                 <Grid item xs={12} sm={4} md={3} textAlign={{ sm: 'right' }}>
                   <Box pr={3} pb={2}>
