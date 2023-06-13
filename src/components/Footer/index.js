@@ -51,7 +51,7 @@ function Footer() {
                 name="primary-card"
               />
             }
-            label="11.09.2019, 17:23:46 Task Finished Successfully"
+            label="11.09.2019, 17:23:46 Task Finished Successfully!"
             sx={{
               display: 'flex',
               gap: '10px',

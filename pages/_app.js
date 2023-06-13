@@ -23,7 +23,7 @@ function WorkflowApp(props) {
   return (
     <CacheProvider value={emotionCache}>
       <Head>
-        <title> A Screen That Assists Users in Building Workflows</title>
+        <title> A Screen That Assists Users in Building Workflows!!</title>
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"

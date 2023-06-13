@@ -53,7 +53,7 @@ function Feed() {
 
   return (
     <Card>
-      <CardHeader title="Followers Feed" />
+      <CardHeader title="Followers Feed To Be" />
       <Divider />
       <Box p={2}>
         <Grid container spacing={0}>
