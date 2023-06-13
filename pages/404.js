@@ -51,7 +51,7 @@ function Status404() {
   return (
     <>
       <Head>
-        <title>Pge not found | Status - 404</title>
+        <title>Page not found | Status - 404</title>
       </Head>
       <MainContent>
         <TopWrapper>
@@ -59,7 +59,7 @@ function Status404() {
             <Box textAlign="center">
               <img alt="404" height={180} src="/static/images/status/404.svg" />
               <Typography variant="h2" sx={{ my: 2 }}>
-                The page you were looking for doesn't exist.
+                The page you were looking for does not exist.
               </Typography>
               <Typography
                 variant="h4"
